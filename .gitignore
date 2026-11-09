@@ -1,0 +1,23 @@
+# Obsidian per-device UI state (changes every time you open/click around)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspaces.json
+.obsidian/graph.json
+.obsidian/cache
+
+# Obsidian trash
+.trash/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sync/editor conflict + temp files
+*.tmp
+*.swp
+*~
+*.sync-conflict-*
+
+# Obsidian Git settings are per-device (Mac auto-syncs, iPad can differ)
+.obsidian/plugins/obsidian-git/data.json
