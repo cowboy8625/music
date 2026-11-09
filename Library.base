@@ -1,0 +1,37 @@
+filters:
+  and:
+    - file.inFolder("Songs")
+views:
+  - type: table
+    name: All songs
+    order:
+      - file.name
+      - artist
+      - key
+      - capo
+      - tuning
+      - status
+    sort:
+      - property: artist
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - artist
+      - key
+      - capo
+  - type: table
+    name: Originals
+    filters:
+      and:
+        - status == "original"
+    order:
+      - file.name
+      - key
+      - capo

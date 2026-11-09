@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Songs/Vince Gill/Go Rest High on That Mountain.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Go Rest High on That Mountain"
+            }
+          },
+          {
+            "id": "b1f34693f794f9b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Theory/Keys.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keys"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d4a1297069c339a",
+    "type": "split",
+    "children": [
+      {
+        "id": "092e6b95004c672b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b6563a8f51e92b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "330325656c887717",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "04c2638b6b5b46cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fac640e2b3908558",
+    "type": "split",
+    "children": [
+      {
+        "id": "72f452ad04791b37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d960d49572f3e30",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "f9a470425c25c8b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d1cfbfd0bb36665d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3a38d7d6f749abf0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "72e0fa3f18210a8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "b1f34693f794f9b6",
+  "lastOpenFiles": [
+    "Songs/Shine Down /Save Me.md",
+    "Songs/Shine Down ",
+    "Theory/Keys.md",
+    "Songs/Shine Down/Save Me.md",
+    "Songs/Shine Down",
+    "Songs/Vince Gill/Go Rest High on That Mountain.md",
+    "Home.md",
+    "Songs/Vince Gill/Go Rest High on That Moutain.md",
+    "Songs/Vince Gill",
+    "Songs/null/null.md",
+    "Songs/null",
+    "Songs/Chris Stapleton/Fool Me Again.md",
+    "Songs/Foo Fighters/Best of You.md",
+    "Songs/Bullet For My Valentine/Tears Don't Fall.md",
+    "Songs/Lee Brice/Beautiful Crazy.md",
+    "Theory/Scales/Scales.md",
+    "Theory/Scales/Diatonic/Aeolian/Aeolian (Natural Minor).md",
+    "Theory/Scales/Diatonic/Aeolian/A Aeolian.md",
+    "Library.base",
+    "Theory/Scales/Pentatonic/Minor Pentatonic/Minor Pentatonic.md",
+    "Theory/Scales/Pentatonic/Minor Pentatonic/G♯ Minor Pentatonic.md",
+    "Theory/Scales/Pentatonic/Minor Pentatonic/G Minor Pentatonic.md",
+    "Theory/Scales/Pentatonic/Minor Pentatonic/F♯ Minor Pentatonic.md",
+    "Theory/Scales/Pentatonic/Minor Pentatonic/F Minor Pentatonic.md",
+    "Theory/Scales/Pentatonic/Minor Pentatonic/E♭ Minor Pentatonic.md",
+    "Theory/Scales/Pentatonic/Minor Pentatonic/E Minor Pentatonic.md",
+    "Theory/Scales/Pentatonic/Minor Pentatonic/D Minor Pentatonic.md",
+    "Theory/Scales/Pentatonic/Minor Pentatonic/C♯ Minor Pentatonic.md",
+    "Theory/Scales/Pentatonic/Minor Pentatonic/C Minor Pentatonic.md",
+    "Theory/Scales/Pentatonic/Minor Pentatonic/B Minor Pentatonic.md",
+    "Theory/Scales/Pentatonic/Minor Pentatonic",
+    "Theory/Scales/Pentatonic/Major Pentatonic",
+    "Theory/Scales/Diatonic/Phrygian",
+    "Theory/Scales/Diatonic/Aeolian",
+    "Theory/Scales/Diatonic/Mixolydian"
+  ]
+}

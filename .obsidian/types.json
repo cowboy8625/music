@@ -1,0 +1,17 @@
+{
+  "types": {
+    "artist": "text",
+    "key": "text",
+    "capo": "number",
+    "tuning": "text",
+    "status": "text",
+    "tags": "tags",
+    "custom-width": "number",
+    "date": "date",
+    "venue": "text",
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "autoscroll-speed": "number",
+    "source": "text"
+  }
+}
