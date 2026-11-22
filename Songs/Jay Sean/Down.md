@@ -2,7 +2,7 @@
 artist: Jay Sean
 key: Bm
 capo: 0
-tuning: Standard
+tuning: Baritone (B)
 status: learning
 tags:
   - song
@@ -10,120 +10,120 @@ custom-width: 100
 source: https://tabs.ultimate-guitar.com/tab/jay-sean/down-chords-892814
 ---
 
-Featuring Lil Wayne. My version loops Bm A G D A through the whole song.
+Featuring Lil Wayne. My version loops Em D C G D through the whole song.
 
 ```chords-guitar
 [Intro]
-G  D  A
-            Bm7                  G
+C  G  D
+            Em7                  C
 Baby are you down down down down down,
-      D     A
+      G     D
 Down,  Down
-            Bm7              G
+            Em7              C
 Even if the sky is falling down
-      D     A
+      G     D
 Down,  Down
 
 [Verse 1]
-              G    D                A              F#m
+              C    G                D              Bm
 You ought to know,   tonight is the night to let it go,
-          G   D                A              A
+          C   G                D              D
 Put on a show,  I want to see how you lose control,
-              G                        D           A      A
+              C                        G           D      D
 So leave it behind 'cause we've got a night to get away,
-               G                  D               A      A
+               C                  G               D      D
 So come on and fly with me, as we make our great escape.
 
 [Chorus]
-                G               D
+                C               G
 So baby don't worry, you are my only,
-               A                  Bm7       A      G
+               D                  Em7       D      C
 You won't be lonely, even if the sky is falling down,
-               D                A
+               G                D
 You'll be my only, no need to worry,
-            Bm7       A         G
+            Em7       D         C
 Baby are you down down down down down,
-      D     A
+      G     D
 Down,  Down
-            Bm7        A         G
+            Em7        D         C
 Baby are you down down down down down,
-      D     A
+      G     D
 Down,  Down
-            Bm7    A         G
+            Em7    D         C
 Even if the sky is falling down
 
 [Verse 2]
-G            D              A                       F#m
+C            G              D                       Bm
 Just let it be, come on and bring your body next to me,
-              G    D                          A              A
+              C    G                          D              D
 I'll take you away,  turn this place into our private getaway
-              G                        D           A      A
+              C                        G           D      D
 So leave it behind 'cause we've got a night to get away,
-               G                  D               A      A
+               C                  G               D      D
 So come on and fly with me, as we make our great escape.
 (So why don't we run away)
 
 [Chorus]
-                G               D
+                C               G
 So baby don't worry, you are my only,
-               A                  Bm7       A      G
+               D                  Em7       D      C
 You won't be lonely, even if the sky is falling down,
-               D                A
+               G                D
 You'll be my only, no need to worry,
-            Bm7       A         G
+            Em7       D         C
 Baby are you down down down down down,
-      D     A
+      G     D
 Down,  Down
-            Bm7        A         G
+            Em7        D         C
 Baby are you down down down down down,
-      D     A
+      G     D
 Down,  Down
-            Bm7    A         G
+            Em7    D         C
 Even if the sky is falling down
 
 [Rap - Lil Wayne]
-G
+C
 Down like she 'posed to be
-D
+G
 She gets down low for me
-A                          F#m
+D                          Bm
 Down like her temperature, 'cause to me she zero degrees
-G
+C
 She cold, over freeze
-D
+G
 I got that girl from overseas
-A
+D
 Now she my Miss America
-A
+D
 Now can I be her soldier please?
-G
+C
 I'm fighting for this girl
-D
-On a battlefield of love
-A                                     A
-Don't it look like baby cupid sendin' arrows from above
 G
+On a battlefield of love
+D                                     D
+Don't it look like baby cupid sendin' arrows from above
+C
 Don't you ever leave the side of me
-D
+G
 Indefinitely, not probably
-A                               A
+D                               D
 And honestly, I'm down like the economy (yeah)
 
 [Chorus]
-                G               D
+                C               G
 So baby don't worry, you are my only,
-               A                  Bm7       A      G
+               D                  Em7       D      C
 You won't be lonely, even if the sky is falling down,
-               D                A
+               G                D
 You'll be my only, no need to worry,
-            Bm7       A         G
+            Em7       D         C
 Baby are you down down down down down,
-      D     A
+      G     D
 Down,  Down
-            Bm7        A         G
+            Em7        D         C
 Baby are you down down down down down,
-      D     A
+      G     D
 Down,  Down
-            Bm7    A         G
+            Em7    D         C
 Even if the sky is falling down
 ```

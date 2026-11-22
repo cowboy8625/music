@@ -2,7 +2,7 @@
 artist: Vince Gill
 key: D
 capo: 0
-tuning: Standard
+tuning: Baritone (B)
 status: known
 tags:
   - song
@@ -12,62 +12,62 @@ source: https://tabs.ultimate-guitar.com/tab/vince-gill/go-rest-high-on-that-mou
 
 ```chords-guitar
 [Intro]
-| D  G  | D     | G     | D     |
-| D  G  | D     | D  A  | D     |
+| G  C  | G     | C     | G     |
+| G  C  | G     | G  D  | G     |
 
 [Verse 1]
-             D        G        D
+             G        C        G
 I know your life - on earth was troubled,
-         G               D
+         C               G
 And only you - could know the pain.
-              G             D
+              C             G
 You weren't afraid - to face the devil,
-            A            D
+            D            G
 You were no stranger - to the rain.
 
 [Chorus]
-        D  G           D
+        G  C           G
 Go rest high - on that mountain.
-          G                D
+          C                G
 Son, your work - on earth is done,
-      G           D
+      C           G
 Go to heaven - a-shoutin'!
-     G        D A         D
+     C        G D         G
 Love for the Father - and the son.
 
 [Verse 2]
-          D            G      D
+          G            C      G
 Oh, how we cried - the day you left us.
-            G                 D
+            C                 G
 We gathered round - your grave to grieve.
-               G               D
+               C               G
 I wish I could see - the angel's faces,
-          A                  D
+          D                  G
 When they hear - your sweet voice sing.
 
 [Chorus]
-        D  G           D
+        G  C           G
 Go rest high - on that mountain.
-          G                D
+          C                G
 Son, your work - on earth is done,
-      G           D
+      C           G
 Go to heaven - a-shoutin'!
-     G        D A         D
+     C        G D         G
 Love for the Father - and the son.
 
 [Instrumental]
-| D   G | D     | G     | D     |
-| G     | D     | A     | D     |
-| D   G | D     | G     | D     |
-| G     | D     | A     | D     |
+| G   C | G     | C     | G     |
+| C     | G     | D     | G     |
+| G   C | G     | C     | G     |
+| C     | G     | D     | G     |
 
 [Chorus]
-        D  G           D
+        G  C           G
 Go rest high - on that mountain.
-          G                D
+          C                G
 Son, your work - on earth is done,
-      G           D
+      C           G
 Go to heaven - a-shoutin'!
-     G        D A         D
+     C        G D         G
 Love for the Father - and the son.
 ```

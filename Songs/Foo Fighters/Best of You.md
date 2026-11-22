@@ -2,7 +2,7 @@
 artist: Foo Fighters
 key: C#m
 capo: 0
-tuning: Standard
+tuning: Baritone (B)
 status: learning
 tags:
   - song
@@ -11,123 +11,123 @@ custom-width: 60
 
 ```chords-guitar
 [Intro]
-                       C#m
+                       F#m
 I've got another confession to make
-        A
+        D
 I'm your fool
-                      C#m
+                      F#m
 Everyone's got their chains to break
-           A
+           D
 Holdin' you
-                   B               A
+                   E               D
 Were you born to resist or be abused?
-                       C#m                  B                A
+                       F#m                  E                D
 Is someone getting the best, the best, the best, the best of you?
-                       C#m                  B                A
+                       F#m                  E                D
 Is someone getting the best, the best, the best, the best of you?
-C#m               B            A
+F#m               E            D
 Are you gone and onto someone new?
 
 [Verse]
-                        C#m
+                        F#m
 I needed somewhere to hang my head
-                A
+                D
 Without your noose
-                              C#m
+                              F#m
 You gave me something that I didn't have
-            A
+            D
 But had no use
-                        B
+                        E
 I was too weak to give in
-                 A
+                 D
 Too strong to lose
-                     C#m
+                     F#m
 My heart is under arrest again
-               A
+               D
 But I break loose
-                      C#m
+                      F#m
 My head is giving me life or death
-              A
+              D
 But I can't choose
-                    B
+                    E
 I swear I'll never give in
-       A
+       D
 I refuse
 
 [Chorus]
-                       C#m                 B                    A   F#
+                       F#m                 E                    D   B
 Is someone getting the best, the best, the best, the best of you?
-                       C#m                 B                    A   F#
+                       F#m                 E                    D   B
 Is someone getting the best, the best, the best, the best of you?
-                         C#m
+                         F#m
 Has someone taken your faith?
-                B
+                E
 It's real, the pain you feel
-      A
+      D
 You trust, you must
-      F#
+      B
 Confess
-                        C#m                 B                    A   F#
+                        F#m                 E                    D   B
 Is someone getting the best, the best, the best, the best of you?
 
 [Interlude]
-  C#m    A    C#m    A  F#
+  F#m    D    F#m    D  B
 Oh...
-B    A    B    A
+E    D    E    D
 Oh...Oh...Oh...Oh...
 
 [Chorus]
-                       C#m
+                       F#m
 Has someone taken your faith?
-                B
+                E
 It's real, the pain you feel
-        A
+        D
 The life, the love
-     F#
+     B
 You die to heal
-      C#m
+      F#m
 The hope that starts
-      B
+      E
 The broken hearts
-     A
+     D
 You trust, you must
-     F#
+     B
 Confess
-                        C#m                 B                    A   F#
+                        F#m                 E                    D   B
 Is someone getting the best, the best, the best, the best of you?
-                        C#m                 B                    A   F#
+                        F#m                 E                    D   B
 Is someone getting the best, the best, the best, the best of you?
 [Bridge]
-                       C#m
+                       F#m
 I've got another confession my friend
-        A
+        D
 I'm no fool
-                     C#m
+                     F#m
 I'm getting tired of starting again
-          A
+          D
 Somewhere new
-                  B               A
+                  E               D
 Were you born to resist or be abused?
-                        B
+                        E
 I swear I'll never give in
-       A
+       D
 I refuse
 
 [Chorus]
-                       C#m                 B                    A   F#
+                       F#m                 E                    D   B
 Is someone getting the best, the best, the best, the best of you?
-                       C#m                 B                    A   F#
+                       F#m                 E                    D   B
 Is someone getting the best, the best, the best, the best of you?
-                       C#m
+                       F#m
 Has someone taken your faith?
-                B
+                E
 It's real, the pain you feel
-     A
+     D
 You trust, you must
-     F#
+     B
 Confess
-                       C#m                 B                    A   F#
+                       F#m                 E                    D   B
 Is someone getting the best, the best, the best, the best of you?
-  C#m
+  F#m
 Oh...
 ```

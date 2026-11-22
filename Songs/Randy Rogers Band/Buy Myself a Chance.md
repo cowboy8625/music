@@ -2,7 +2,7 @@
 artist: Randy Rogers Band
 key: E
 capo: 0
-tuning: Standard
+tuning: Baritone (B)
 status: learning
 tags:
   - song
@@ -11,76 +11,76 @@ custom-width: 100
 
 ```chords
 [Intro]
-C#m E C#m E  x2
+F#m A F#m A  x2
  
 [Verse 1]
-C#m                         E
+F#m                         A
 Well I've been watching you stare at the floor
-C#m                     E
+F#m                     A
 That guy's got two left feet
-C#m                     E
+F#m                     A
 I may be wrong but you must be bored
-A                          B               C
+D                          E               F
 You look like someone who I'd like to meet
  
 [Verse 2]
-C#m                      E
+F#m                      A
 I could walk over and say hello
-C#m                         E
+F#m                         A
 But I think I need one more drink
-C#m                              E
+F#m                              A
 Looks like you might be getting ready to go
-A                                    B
+D                                    E
 Better find some words quick, now let me think
  
 [Chorus]
-       A            B               E
+       D            E               A
 Well if things don't work out by the next song
-      A             B            C#m
+      D             E            F#m
 and you're lookin for someone who can dance
-       F#m         G#m          A
+       Bm          C#m          D
 I'll be right over there by the jukebox
-           B                    A     B      E        C#m  E  C#m  E
+           E                    D     E      A        F#m  A  F#m  A
 A quarter in my hand, trying to buy myself a chance 
 
 [Verse 3]
-C#m                    E
+F#m                    A
 Saw my reflection in an empty glass
-C#m                E
+F#m                A
 So I rehearsed my line
-C#m                   E
+F#m                   A
 I aint lookin for trouble
-     A                            B
+     D                            E
 Well I know you came in here with him tonight 
 
 [Chorus]
-       A            B               E
+       D            E               A
 Well if things don't work out by the next song
-      A             B            C#m
+      D             E            F#m
 and you're lookin for someone who can dance
-       F#m         G#m          A
+       Bm          C#m          D
 I'll be right over there by the jukebox
-           B                    A     B      E        C#m  E  C#m  E
+           E                    D     E      A        F#m  A  F#m  A
 A quarter in my hand, trying to buy myself a chance 
 
 [Bridge]
-C#m                    A
+F#m                    D
 Well here goes nothing, I hope for something
-B                              C
+E                              F
 I’m walking out cross the floor
-C#m               A                           B
+F#m               D                           E
 I cross my fingers, I tap your shoulder and I say
-B
+E
 Ive never done this before
  
 [Chorus]
-       A            B               E
+       D            E               A
 Well if things don't work out by the next song
-      A             B            C#m
+      D             E            F#m
 and you're lookin for someone who can dance
-       F#m         G#m          A
+       Bm          C#m          D
 I'll be right over there by the jukebox
-           B                    A     B      E        C#m  E  C#m  E
+           E                    D     E      A        F#m  A  F#m  A
 A quarter in my hand, trying to buy myself a chance 
 
 ```

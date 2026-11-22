@@ -2,7 +2,7 @@
 artist: Jason Eady
 key: G
 capo: 0
-tuning: Standard
+tuning: Baritone (B)
 status: learning
 tags:
   - song
@@ -14,70 +14,70 @@ Jason Eady's song, not the Carrie Underwood one. The source chart doesn't give a
 
 ```chords-guitar
 [Verse 1]
-G                                  C
+C                                  F
 I know it's been awhile since I've seen you, girl
-G                                       C
+C                                       F
 Funny we should meet up at a place like this
-G                            C
+C                            F
 Sure I've got a minute but I can't stay long
-      G                             C
+      C                             F
 I got someone waiting for me outside
-G                                     C
+C                                     F
 Damn, you sure look just like I remember
-G                                        C
+C                                        F
 It's too bad things turned out like they did
-G                              C
+C                              F
 Got that same look in your eyes now
-G                                 C
+C                                 F
 Last time I saw it when you were leaving
 
 [Chorus]
-Em              D/F#             C
+Am              G/B              F
 Has anybody ever told you you sure cry pretty
-G    D/F#              C
+C    G/B               F
 Stand tall and move with grace
-Em              D/F#             C
+Am              G/B              F
 Has anybody ever told you you sure cry pretty
-G        D/F#    C
+C        G/B     F
 The tears fall but don't leave a trace
 
 [Verse 2]
-G                               C
+C                               F
 Yeah, I thought about you for a little while
-G                        C
+C                        F
 Yeah, I guess I still do now and then
-G                             C
+C                             F
 If only this had been another time, girl
-G                    C
+C                    F
 Maybe you might just break me down
 
 [Chorus]
-Em              D/F#             C
+Am              G/B              F
 Has anybody ever told you you sure cry pretty
-G    D/F#              C
+C    G/B               F
 Stand tall and move with grace
-Em              D/F#             C
+Am              G/B              F
 Has anybody ever told you you sure cry pretty
-G        D/F#    C
+C        G/B     F
 The tears fall but don't leave a trace
 
 [Verse 3]
-G                         C
+C                         F
 It's time for me to go, I hope you understand
-G                            C
+C                            F
 I'm sure that you'll be fine once I'm gone
-G                                  C
+C                                  F
 I'm sure there's someone out there you can turn to
-G                            C
+C                            F
 Just keep your head up girl, you'll be fine
 
 [Chorus]
-Em              D/F#             C
+Am              G/B              F
 Has anybody ever told you you sure cry pretty
-G    D/F#              C
+C    G/B               F
 Stand tall and move with grace
-Em              D/F#             C
+Am              G/B              F
 Has anybody ever told you you sure cry pretty
-G        D/F#    C
+C        G/B     F
 The tears fall but don't leave a trace
 ```
