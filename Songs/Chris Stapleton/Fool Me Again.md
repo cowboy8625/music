@@ -11,7 +11,7 @@ custom-width: 60
 
 ```chords-guitar
 [Into]
-  D   B7   E7   A           D   G   D   A7
+  D   B7   E7   A          D   G   D   A7
 
 [Verse 1]
 D               D7              G                           D
