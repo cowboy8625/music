@@ -1,0 +1,9 @@
+{
+	"id": "baritone-toggle",
+	"name": "Baritone Toggle",
+	"version": "1.0.0",
+	"minAppVersion": "1.4.0",
+	"description": "Button that shows Chord Sheets chords as baritone (B tuning) shapes without changing the note.",
+	"author": "local",
+	"isDesktopOnly": false
+}

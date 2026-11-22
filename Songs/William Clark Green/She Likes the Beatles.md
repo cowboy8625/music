@@ -2,7 +2,7 @@
 artist: William Clark Green
 key: G
 capo: 0
-tuning: Baritone (B)
+tuning: Standard
 status: known
 tags:
   - song
@@ -10,112 +10,112 @@ custom-width: 100
 source: https://tabs.ultimate-guitar.com/tab/william-clark-green/she-likes-the-beatles-chords-1445647
 ---
 
-Chord shapes: C/E = x20033, Fadd9 = x32033, Am7 = 022033
+Chord shapes: G/B = x20033, Cadd9 = x32033, Em7 = 022033
 
 ```chords-guitar
 [Chorus]
-C                         Fadd9       C
+G                         Cadd9       G
 She likes the Beatles and I like the Stones
-         C                       G       C
+         G                       D       G
 She likes romantic movies, I like Indiana Jones
-C                      Fadd9      C
+G                      Cadd9      G
 She goes to church and I stay at home
-    C                         G          C
+    G                         D          G
 Oh, she likes the Beatles and I like the Stones
 
 [Verse 1]
-   Fadd9       C           G           C
+   Cadd9       G           D           G
 We met on the river in the mid-morning light
-    Fadd9         C/E       G
+    Cadd9         G/B       D
 She swears it was late afternoon
-Fadd9       C           G           Am7
+Cadd9       G           D           Em7
 She fell in love by the time it was night
-    Fadd9    G            C
+    Cadd9    D            G
 But I didn't give in till June
-      Fadd9    C     G         C  Fadd9       C/E           G
+      Cadd9    G     D         G  Cadd9       G/B           D
 Well, not long after we said I do she had the nerve to move in
-    Fadd9        C         G            Am7
+    Cadd9        G         D            Em7
 She painted the walls, she penned up my dog and
-     Fadd9      G         C
+     Cadd9      D         G
 she kicked out all of my friends
 
 [Chorus]
-C                         Fadd9       C
+G                         Cadd9       G
 She likes the Beatles and I like the Stones
-         C                       G       C
+         G                       D       G
 She likes romantic movies, I like Indiana Jones
-C                      Fadd9      C
+G                      Cadd9      G
 She goes to church and I stay at home
-    C                         G          C
+    G                         D          G
 Oh, she likes the Beatles and I like the Stones
 
 [Verse 2]
-Fadd9             C          G              C
+Cadd9             G          D              G
 She burns through money like I burn through smokes
-Fadd9         C/E       G
+Cadd9         G/B       D
 She says that I need to quit
-         Fadd9      C         G  Am7
+         Cadd9      G         D  Em7
 Cause if I die from cancer in 25 years
-Fadd9          G           C
+Cadd9          D           G
 She'll have to pay off the debt
-        G                                C
+        D                                G
 No, she don't think I'm funny, she don't laugh at my jokes
-        Fadd9      C/E          G
+        Cadd9      G/B          D
 I could care less about all her shoes
-   Fadd9        C            G        Am7
+   Cadd9        G            D        Em7
 My parents both hate her but it evens out
-          Fadd9        G       C
+          Cadd9        D       G
 Cause her parents both hate me too
 
 [Chorus]
-C                         Fadd9       C
+G                         Cadd9       G
 She likes the Beatles and I like the Stones
-         C                       G       C
+         G                       D       G
 She likes romantic movies, I like Indiana Jones
-C                      Fadd9      C
+G                      Cadd9      G
 She goes to church and I stay at home
-    C                         G          C
+    G                         D          G
 Oh, she likes the Beatles and I like the Stones
 
 [Solo]
-| Fadd9 C    | G    C    |
-| Fadd9 C/E  | G         |
-| Fadd9 C    | G    Am7  |
-| Fadd9 G    | C         | C       |
+| Cadd9 G    | D    G    |
+| Cadd9 G/B  | D         |
+| Cadd9 G    | D    Em7  |
+| Cadd9 D    | G         | G       |
 
 [Verse 3]
-Fadd9         C           G           C
+Cadd9         G           D           G
 She brings me coffee when I'm workin' late
-Fadd9        C/E         G
+Cadd9        G/B         D
 She lifts me up when I'm low
-Fadd9     C              G         Am7
+Cadd9     G              D         Em7
 She understands when I'm carrying weight
-        Fadd9        G        C
+        Cadd9        D        G
 That I just have to hold up alone
-        Fadd9          C           G            C
+        Cadd9          G           D            G
 She's determined and honest, she's stubborn and strong
-    Fadd9    C/E            G
+    Cadd9    G/B            D
 And I always know where she stands
-   Fadd9    C            G            Am7
+   Cadd9    G            D            Em7
 So it never bugs me when she's always wrong
-   Fadd9         C              G          C
+   Cadd9         G              D          G
 As long as she's wrong with her hand in my hand
 
 [Chorus]
-C                         Fadd9       C
+G                         Cadd9       G
 She likes the Beatles and I like the Stones
-         C                       G       C
+         G                       D       G
 She likes romantic movies, I like Indiana Jones
-C                      Fadd9      C
+G                      Cadd9      G
 She goes to church and I stay at home
-    C                         G          C
+    G                         D          G
 Oh, she likes the Beatles and I like the Stones
-C                         G          C
+G                         D          G
 She likes the Beatles and I like the Stones
 
 [Outro Solo]
-| Fadd9 C    | G    C    |
-| Fadd9 C/E  | G         |
-| Fadd9 C    | G    Am7  |
-| Fadd9 G    | C         |
+| Cadd9 G    | D    G    |
+| Cadd9 G/B  | D         |
+| Cadd9 G    | D    Em7  |
+| Cadd9 D    | G         |
 ```

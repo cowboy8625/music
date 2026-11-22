@@ -2,7 +2,7 @@
 artist: Whiskey Myers
 key: C
 capo: 0
-tuning: Baritone (B)
+tuning: Standard
 status: learning
 tags:
   - song
@@ -10,21 +10,21 @@ custom-width: 100
 source: https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/w/whiskey_myers/virginia_tab.html
 ---
 
-About 65 BPM. The whole song cycles C Dm Bb F and ends on Bb to F. The person who posted the chart says they aren't sure of the chords.
+About 65 BPM. The whole song cycles G Am F C and ends on F to C. The person who posted the chart says they aren't sure of the chords.
 
 > Chords only. Paste lyrics under each chord line.
 
 ```chords
 [Intro]
-C  Dm  Bb F
+G  Am  F  C
 
 [Verse]
-C  Dm  Bb F
+G  Am  F  C
 
 [Chorus]
-C  Dm  Bb F
+G  Am  F  C
 
 [Solo]
-C  Dm  Bb F  (x4)
-Bb F
+G  Am  F  C  (x4)
+F  C
 ```

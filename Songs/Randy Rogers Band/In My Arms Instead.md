@@ -2,7 +2,7 @@
 artist: Randy Rogers Band
 key: A
 capo: 2
-tuning: Baritone (B)
+tuning: Standard
 status: learning
 tags:
   - song
@@ -10,75 +10,75 @@ custom-width: 100
 source: https://www.chordie.com/chord.pere/www.guitaretab.com/r/randy-rogers-band/116005.html
 ---
 
-Capo 2, played with C-family shapes so it sounds in A. After the bridge, go back into the chorus.
+Capo 2, played with G-family shapes so it sounds in A. After the bridge, go back into the chorus.
 
 ```chords-guitar
 [Intro]
-Dm  F/E  F  C  G
+Am  C/B  C  G  D
 
 [Verse 1]
-G
+D
 All the leaves have turned to rust
-                    F                 C
+                    C                 G
 The air is getting thin, I can see my breath
-                    G
+                    D
 The night is rollin' in
-                               F
+                               C
 The sky is grey, it's cold as stone
-                      C                       F
+                      G                       C
 It's just the kind of day I can't stand to be alone
 
 [Chorus]
-     Dm               F/E    F
+     Am               C/B    C
 'Cuz you, you've been on my mind
-                C              G
+                G              D
 I wish you were here beside me tonight
-                     Dm           F/E     F
+                     Am           C/B     C
 Lying in this bed 'cuz I, I'm just not the same
-                  C                            G
+                  G                            D
 I walk down these streets, I swear I hear your name
-                    Dm             Bb    F    C
+                    Am             F     C    G
 It's just in my head, wish you were in my arms instead
 
 [Verse 2]
-G                                                    F
+D                                                    C
 Wasn't thinking about you, when I thought I saw your car
-                         C                         G
+                         G                         D
 You can't escape me for long, yeah I never get too far
-                                                   F
+                                                   C
 You're everywhere I go, 'cause you're everywhere I've been
-                    C                          G
+                    G                          D
 You're everything I've wanted and I want it back again
 
 [Chorus]
-     Dm               F/E    F
+     Am               C/B    C
 'Cuz you, you've been on my mind
-                C              G
+                G              D
 I wish you were here beside me tonight
-                     Dm           F/E     F
+                     Am           C/B     C
 Lying in this bed 'cuz I, I'm just not the same
-                  C                            G
+                  G                            D
 I walk down these streets, I swear I hear your name
-                    Dm             Bb    F    C
+                    Am             F     C    G
 It's just in my head, wish you were in my arms instead
 
 [Bridge]
-C                F                       C
+G                C                       G
 I have to find a way, that's just how it is
-                      G
+                      D
 I'm stuck here in this place
 
 [Chorus]
-     Dm               F/E    F
+     Am               C/B    C
 'Cuz you, you've been on my mind
-                C               G
+                G               D
 I wish you were here beside me tonight
-                      Dm          F/E     F
+                      Am          C/B     C
 Lying in this bed 'cuz I, I'm just not the same
-                  C                            G
+                  G                            D
 I walk down these streets, I swear I hear your name
-                    Dm             Bb    F    C
+                    Am             F     C    G
 It's just in my head, wish you were in my arms instead
-              Bb    F    C
+              F     C    G
 Wish you were in my arms instead
 ```

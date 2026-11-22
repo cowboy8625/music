@@ -2,7 +2,7 @@
 artist: John Legend
 key: Fm
 capo: 1
-tuning: Baritone (B)
+tuning: Standard
 status: known
 tags:
   - song
@@ -12,131 +12,131 @@ source: https://tabs.ultimate-guitar.com/tab/john-legend/all-of-me-chords-124857
 
 ```chords-guitar
 [Intro]
-Am  F  C  G  (x2)
+Em  C  G  D  (x2)
 
 [Verse 1]
-Am           Fmaj7                  C
+Em           Cmaj7                  G
 What would I do without your smart mouth
-           G                      Am
+           D                      Em
 Drawing me in, and you kicking me out
-          F            C               G          Am
+          C            G               D          Em
 Got my head spinning, no kidding, I can't pin you down
-             Fmaj7                 C
+             Cmaj7                 G
 What's going on in that beautiful mind
-                G             Am
+                D             Em
 I'm on your magical mystery ride
-        Fadd9             C                     G         Dmadd9
+        Cadd9             G                     D         Amadd9
 And I'm so   dizzy, don't know what hit me, but I'll be alright
 
 [Pre-Chorus]
-   Dm             C
+   Am             G
 My head's under water
-    G              Dmadd9
+    D              Amadd9
 But I'm breathing fine
-                 C              G
+                 G              D
 You're crazy and I'm out of my mind
 
 [Chorus]
-       C
+       G
 Cause all of me
-       Amadd9
+       Emadd9
 Loves all of you
-          Dm/F
+          Am/C
 Love your curves and all your edges
-           F/G        G
+           C/D        D
 All your perfect imperfections
-           C
+           G
 Give your all to me
-             Amadd9
+             Emadd9
 I'll give my all to you
-          Dm/F
+          Am/C
 You're my end and my beginning
-     F/G             G
+     C/D             D
 Even when I lose I'm winning
-                  Am   F      C   Gadd9
+                  Em   C      G   Dadd9
 Cause I give you all, all of me
-                 Am   F      C    Gadd9
+                 Em   C      G    Dadd9
 And you give me all, all of you, oh
 
 [Verse 2]
-Am       F                       C
+Em       C                       G
 How many times do I have to tell you
-                 G                       Am
+                 D                       Em
 Even when you're crying you're beautiful too
-              F           C          G                  Am
+              C           G          D                  Em
 The world is beating you down, I'm around through every mood
-             F                 C
+             C                 G
 You're my downfall, you're my muse
-             G                        Am
+             D                        Em
 My worst distraction, my rhythm and blues
-                F             C        G            Dm
+                C             G        D            Am
 I can't stop singing, it's ringing, in my head for you
 
 [Pre-Chorus]
-   Dm             C
+   Am             G
 My head's under water
-    G              Dmadd9
+    D              Amadd9
 But I'm breathing fine
-                 C              G
+                 G              D
 You're crazy and I'm out of my mind
 
 [Chorus]
-       C
+       G
 Cause all of me
-       Amadd9
+       Emadd9
 Loves all of you
-          Dm/F
+          Am/C
 Love your curves and all your edges
-           F/G        G
+           C/D        D
 All your perfect imperfections
-           C
+           G
 Give your all to me
-             Amadd9
+             Emadd9
 I'll give my all to you
-          Dm/F
+          Am/C
 You're my end and my beginning
-     F/G             G
+     C/D             D
 Even when I lose I'm winning
-                  Am   F      C   Gadd9
+                  Em   C      G   Dadd9
 Cause I give you all, all of me
-                 Am   F      C    Gadd9
+                 Em   C      G    Dadd9
 And you give me all, all of you, oh
-                Dm
+                Am
 Give me all of you
 
 [Bridge]
-(Dm)          C
+(Am)          G
 Cards on the table
-       G             Dmadd9
+       D             Amadd9
 We're both showing hearts
-Dm          C                G
+Am          G                D
 Risking it all, though it's hard
 
 [Chorus]
-       C
+       G
 Cause all of me
-       Amadd9
+       Emadd9
 Loves all of you
-          Dm/F
+          Am/C
 Love your curves and all your edges
-           F/G        G
+           C/D        D
 All your perfect imperfections
-           C
+           G
 Give your all to me
-             Amadd9
+             Emadd9
 I'll give my all to you
-          Dm/F
+          Am/C
 You're my end and my beginning
-     F/G             G
+     C/D             D
 Even when I lose I'm winning
-                  Am   F      C   Gadd9
+                  Em   C      G   Dadd9
 Cause I give you all, all of me
-                 Am   F      C    Gadd9
+                 Em   C      G    Dadd9
 And you give me all, all of you
 
 [Outro]
-            Am   F      C   G
+            Em   C      G   D
 I give you all, all of me
-                 Am   F      C    G
+                 Em   C      G    D
 And you give me all, all of you, oh
 ```

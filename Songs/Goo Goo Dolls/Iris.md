@@ -2,7 +2,7 @@
 artist: Goo Goo Dolls
 key: D
 capo: 0
-tuning: Baritone (B)
+tuning: Standard
 status: learning
 tags:
   - song
@@ -10,83 +10,83 @@ custom-width: 100
 source: https://pg.zachmanson.com/tab/goo-goo-dolls/iris-chords-1488683
 ---
 
-Simplified standard-tuning version. The record uses an open tuning (B D D D D D), so these chord names are approximations. Dsus4 can be swapped for D7sus4.
+Simplified standard-tuning version. The record uses an open tuning (B D D D D D), so these chord names are approximations. Asus4 can be swapped for A7sus4.
 
 ```chords-guitar
 [Intro]
-Em  Emadd9  Em  Emadd9  E7sus2 | C  Cmaj7  C  Cmaj7  C5  (x2)
+Bm  Bmadd9  Bm  Bmadd9  B7sus2 | G  Gmaj7  G  Gmaj7  G5  (x2)
 
 [Verse 1]
-        Gsus2     Am7       C
+        Dsus2     Em7       G
 And I'd give up forever to touch you
-          Em          Dsus4        C
+          Bm          Asus4        G
 Cause I know that you feel me somehow
-             Gsus2     Am7        C
+             Dsus2     Em7        G
 You're the closest to heaven that I'll never be
-       Em          Dsus4            C
+       Bm          Asus4            G
 And I don't want to go home right now
-(C comes in on "go")
+(G comes in on "go")
 
 [Verse 2]
-    Gsus2      Am7           C
+    Dsus2      Em7           G
 And all I can taste is this moment
-    Em         Dsus4           C
+    Bm         Asus4           G
 And all I can breathe is your life
-     Gsus2     Am7       C
+     Dsus2     Em7       G
 And sooner or later it's over
-        Em           Dsus4      C
+        Bm           Asus4      G
 I just don't want to miss you tonight
 
 [Chorus]
-       Em            Dsus4     C
+       Bm            Asus4     G
 And I don't want the world to see me
-         Em               Dsus4         C
+         Bm               Asus4         G
 Cause I don't think that they'd understand
-     Em           Dsus4          C
+     Bm           Asus4          G
 When everything's made to be broken
-        Em           Dsus4     C
+        Bm           Asus4     G
 I just want you to know who I am
 
 [Verse 3]
-        Gsus2            Am7              C
+        Dsus2            Em7              G
 And you can't fight the tears that ain't coming
-        Em       Dsus2           C
+        Bm       Asus2           G
 Or the moment of truth in your life
-     Gsus2       Am7        C
+     Dsus2       Em7        G
 When everything feels like movies
-            Em          Dsus4        C
+            Bm          Asus4        G
 Yeah, you bleed just to know you're alive
 
 [Chorus]
-       Em            Dsus4    C
+       Bm            Asus4    G
 And I don't want the world to see me
-         Em               Dsus4         C
+         Bm               Asus4         G
 Cause I don't think that they'd understand
-     Em            Dsus4     C
+     Bm            Asus4     G
 When everything's made to be broken
-        Em          Dsus4      C
+        Bm          Asus4      G
 I just want you to know who I am
 
 [Solo]
-Em  Dsus4  C  (improvise over the chorus chords)
+Bm  Asus4  G  (improvise over the chorus chords)
 
 [Chorus]
-       Em            Dsus4    C
+       Bm            Asus4    G
 And I don't want the world to see me
-         Em               Dsus4         C
+         Bm               Asus4         G
 Cause I don't think that they'd understand
-     Em            Dsus4     C
+     Bm            Asus4     G
 When everything's made to be broken
-        Em          Dsus4      C
+        Bm          Asus4      G
 I just want you to know who I am
-        Em          Dsus4      C
+        Bm          Asus4      G
 I just want you to know who I am
-        Em          Dsus4      C
+        Bm          Asus4      G
 I just want you to know who I am
-        Em          Dsus4      C
+        Bm          Asus4      G
 I just want you to know who I am
 
 [Outro]
 (softly, slowing down)
-Em       Dsus4       C
+Bm       Asus4       G
 ```

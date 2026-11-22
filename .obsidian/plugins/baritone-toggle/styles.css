@@ -1,0 +1,11 @@
+/* Highlight the header button while baritone mode is on */
+.baritone-toggle-btn.is-active {
+	color: var(--text-accent);
+	background-color: var(--background-modifier-hover);
+}
+
+/* In the editor, Chord Sheets' chord overview/diagrams still show standard shapes, so hide them while on.
+   Reading view re-renders with baritone chords, so its diagrams stay. */
+body.baritone-on .markdown-source-view .chord-sheet-chord-overview-container {
+	display: none;
+}

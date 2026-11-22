@@ -2,7 +2,7 @@
 artist: Josh Abbott Band
 key: D
 capo: 0
-tuning: Baritone (B)
+tuning: Standard
 status: learning
 tags:
   - song
@@ -10,7 +10,7 @@ custom-width: 100
 source: https://www.chordie.com/chord.pere/www.allcountrytabs.com/tabs/josh-abbott-band/shes-like-texas-15164.html
 ---
 
-Alternative: capo 2 using F / Dm / C / Bb shapes.
+Alternative: capo 2 using C / Am / G / F shapes.
 
 Intro riff (x2):
 
@@ -25,93 +25,93 @@ E|-----------------------------------------|
 
 ```chords-guitar
 [Intro]
-G  D  C
-G  G  Em  D  C  C  (x2)
+D  A  G
+D  D  Bm  A  G  G  (x2)
 
 [Verse 1]
-G                                   D
+D                                   A
 She's as free as bluebonnets in the summer
-Em                               C
+Bm                               G
 She's as hot as the Padre Island sun
-G                                   D
+D                                   A
 Most of the time, she's as warm and friendly
-         Em             D       C
+         Bm             A       G
 Like the hills that surround Austin
 
 [Chorus]
-C
+G
 She's as bright as the Dallas sky
-G
+D
 She always holds her head up high
-     Em             D             C
+     Bm             A             G
 She loves the company of her family
-C
-She has faith in God's greater plan
 G
+She has faith in God's greater plan
+D
 She trusts I'm a good man
-    Em              D            C
+    Bm              A            G
 And that's why I'll always believe
-C               D
+G               A
 She's like Texas
 And she likes me
 
 [Turnaround]
-G  G  Em  D  C  C
+D  D  Bm  A  G  G
 
 [Verse 2]
-G                                          D
+D                                          A
 Her eyes are green like the trees in Nacogdoches
-Em                     D             C
+Bm                     A             G
 Her teeth are white as cotton in the fall
-G                                       D
+D                                       A
 And when she laughs, you'll always take notice
-Em                 D                      C
+Bm                 A                      G
 'Cause her heart's charm will shine right through it all
 
 [Chorus]
-C
+G
 She's as bright as the Dallas sky
-G
+D
 She always holds her head up high
-     Em             D             C
+     Bm             A             G
 She loves the company of her family
-C
-She has faith in God's greater plan
 G
+She has faith in God's greater plan
+D
 She trusts I'm a good man
-    Em              D            C
+    Bm              A            G
 And that's why I'll always believe
-C               D
+G               A
 She's like Texas
 And she likes me
 
 [Bridge]
-Em            D               C               D
+Bm            A               G               A
 Her moods can change like the weather out in Lubbock
-Em         D             C             D
+Bm         A             G             A
 But if you show her love, man she'll return it
 
 [Chorus]
-C
+G
 She's as bright as the Dallas sky
-G
+D
 She always holds her head up high
-     Em             D             C
+     Bm             A             G
 She loves the company of her family
-C
-She has faith in God's greater plan
 G
+She has faith in God's greater plan
+D
 She trusts I'm a good man
-    Em              D            C
+    Bm              A            G
 And that's why I'll always believe
-C               D
+G               A
 She's like Texas
 And she likes me
 
 [Outro]
-C
-C                   D
+G
+G                   A
 Oh, she's like Texas
 And she likes me
-(Pick the intro riff, end with a G strum)
+(Pick the intro riff, end with a D strum)
 ```

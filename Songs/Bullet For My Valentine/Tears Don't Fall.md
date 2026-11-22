@@ -2,98 +2,98 @@
 artist: Bullet For My Valentine
 key: Em
 capo: 0
-tuning: Baritone (B)
+tuning: Standard
 status: learning
 tags:
   - song
 custom-width: 100
 ---
 ```chords-guitar
-[Intro]   Am  F  G  (x2) F  G  F  G  Am  G  (x2)
+[Intro]   Em  C  D  (x2) C  D  C  D  Em  D  (x2)
 [Verse 1]
-Am                     F          G
+Em                     C          D
 With bloodshot eyes I watch you sleeping
-Am                         F           G
+Em                         C           D
 The warmth I feel beside me is slowly fading
 [Bridge]
-Am           F       G
+Em           C       D
 Would she hear me if I called her name?
-Am              F       G
+Em              C       D
 Would she hold me if she knew my shame?
 [Pre-Chorus]
-Am
+Em
 There's always something different going wrong
-F                G
+C                D
 The path I walk's in the wrong direction
-Am
+Em
 There's always someone fucking hanging on
-F                G
+C                D
 Can anybody help me make it better?
 [Chorus]
-F                   G                         F
+C                   D                         C
 Your tears don't fall, they crash around me
-                   G          Am       G     F
+                   D          Em       D     C
 Her conscience calls, the guilty to come home
-                   G                        F
+                   D                        C
 Your tears don't fall, they crash around me
-                   G          Am        G    Am
+                   D          Em        D    Em
 Her conscience calls, the guilty to come home
 [Verse 2]
-Am                  F         G
+Em                  C         D
 The moments die, I hear no screaming
-Am                        F            G
+Em                        C            D
 The visions left inside me are slowly fading
 [Bridge]
-Am           F          G
+Em           C          D
 Would she hear me if I called her name?
-Am              F       G
+Em              C       D
 Would she hold me if she knew my shame?
 [Pre-Chorus]
-Am
+Em
 There's always something different going wrong
-F                G
+C                D
 The path I walk's in the wrong direction
-Am
+Em
 There's always someone fucking hanging on
-F                G
+C                D
 Can anybody help me make it better?
 [Chorus]
-F                   G                         F
+C                   D                         C
 Your tears don't fall, they crash around me
-G          Am       G     F
+D          Em       D     C
 Her conscience calls, the guilty to come home
-G                        F
+D                        C 
 Your tears don't fall, they crash around me
-G          Am        G    Am
+D          Em        D    Em
 Her conscience calls, the guilty to come home
 [Solo]
 [Bridge]
-Am           F          G
+Em           C          D
 Would she hear me if I called her name?
-Am              F       G
+Em              C       D
 Would she hold me if she knew my shame?
 [Pre-Chorus]
-Am
+Em
 There's always something different going wrong
-F                G
+C                D
 The path I walk's in the wrong direction
-Am
+Em
 There's always someone fucking hanging on
-F                G
+C                D
 Can anybody help me make it better?
 [Chorus]
-F                   G                         F
+C                   D                         C
 Your tears don't fall, they crash around me
-G          Am       G     F
+D          Em       D     C
 Her conscience calls, the guilty to come home
-G                        F
+D                        C
 Your tears don't fall, they crash around me
-G          Am        G    Am
+D          Em        D    Em
 Her conscience calls, the guilty to come home
 [Outro]
 Better!
-F                      G
+C                      D
 Your tears don't fall, they crash around me
-F                      G    Am       G
+C                      D    Em       D
 Her conscience calls, the guilty to come home
 ```

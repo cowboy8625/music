@@ -2,7 +2,7 @@
 artist: Bobby Stout
 key: C
 capo: 0
-tuning: Baritone (B)
+tuning: Standard
 status: original
 tags:
   - song
@@ -10,89 +10,89 @@ custom-width: 100
 ---
 ```chords
 [Chorus]
-Bb7    C
+F7     G
 I got Texas on my mind
-F         Dm
+C         Am
 Every mile just buys me time
-Bb7      C
+F7       G
 Crossed that Red River line
-F         Dm
+C         Am
 Now I’m feelin’ that old sun shine
 
-Bb7     C
+F7      G
 Rollin’ south with the windows down
-F         Dm
+C         Am
 Hearin’ that familiar sound
-Bb7      C
+F7       G
 It’s home callin’ sweet and kind
-F         Dm
+C         Am
 Yeah, I got Texas on my mind
 ```
 
 ```chords
 [Verse 1]
-Bb7      C
+F7       G
 Had my fill of neon nights
-F         Dm
+C         Am
 Crowded streets and traffic lights
-Bb7      C
+F7       G
 But I miss that red dirt road
-F         Dm
+C         Am
 Whiskey skies and thunder roll
 
 [Verse 2]
-Bb7      C
+F7       G
 Coffee on the porch at dawn
-F         Dm
+C         Am
 Mama hummin’ her favorite song
-Bb7      C
+F7       G
 Ain’t no city that feels like that
-F         Dm
+C         Am
 So I’m packin’ up and headin’ back
 
 [Chorus]
-Bb7    C
+F7     G
 I got Texas on my mind
-F         Dm
+C         Am
 Every mile just buys me time
-Bb7    C
+F7     G
 To dream about that old home sign
-F         Dm
+C         Am
 Sayin’ “Welcome back, you’ll be just fine”
 
 [Verse 3]
-Bb7      C
+F7       G
 Old dog’s still layin’ on the porch
-F         Dm
+C         Am
 Same ol' swing, same ol' torch
-Bb7      C
+F7       G
 For the girl I left behind
-F         Dm
+C         Am
 Hope she's still got me on her mind
 
 [Bridge]
-Bb7      C
+F7       G
 Maybe I strayed too far from home
-F         Dm
+C         Am
 Chasin’ dreams and feelin’ alone
-Bb7      C
+F7       G
 But some roots, they just don’t die
-F         Dm
+C         Am
 They just wait for you to realize
 
 [Final Chorus]
-Bb7    C
+F7     G
 I got Texas on my mind
-F         Dm
+C         Am
 Like a song stuck in time
-Bb7    C
+F7     G
 Heartbeat slow, like a backroad line
-F         Dm
+C         Am
 Leadin’ me home, right on time
 
 [Outro]
-Bb7    C
+F7     G
 Yeah I’m headin’ home, sweet and slow
-F         Dm
+C         Am
 Back where the warm winds always blow...
 ```

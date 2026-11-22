@@ -2,7 +2,7 @@
 artist: Shine Down
 key: Bm
 capo: 0
-tuning: Baritone (B)
+tuning: Standard
 status: known
 tags:
   - song
@@ -12,83 +12,83 @@ source: https://tabs.ultimate-guitar.com/tab/shinedown/save-me-chords-269809
 
 ```chords-guitar
 [Intro]
-Em   G   D   C   B
-Em   G   D   C   B
+Bm   D   A   G   F#
+Bm   D   A   G   F#
 
 [Verse 1]
-Em          G     D              C B
+Bm          D     A              G F#
 I've got a candle, and I've got a spoon.
-Em           G              D           C B
+Bm           D              A           G F#
 I live in a hallway with no doors and no rooms.
-Em          G        D               C B
+Bm          D        A               G F#
 Under the window sill, they all were found.
-Em                   G
+Bm                   D
 A touch of concrete within the doorways,
-D         C B
+A         G F#
 without a sound
 
 [Chorus]
-Em              B                D          C
+Bm              F#               A          G
 Someone save me if you will, and take away;
-           B
+           F#
 all these pills.
-Em                   B                      D       C
+Bm                   F#                     A       G
 And please, just save me, if you can, from my blasphemy
-        B
+        F#
 in my wasteland
 
 [Instrumental]
-Em   G   D   C   B
+Bm   D   A   G   F#
 
 [Verse 2]
-Em        G       D             C B
+Bm        D       A             G F#
 How did I get here and what went wrong.
-Em                 G                 D         C B
+Bm                 D                 A         G F#
 Couldn't handle forgiveness, now I'm far beyond gone.
-Em                 G          D              C B
+Bm                 D          A              G F#
 And I can hardly remember the look in my own eyes.
-Em                       G
+Bm                       D
 How could I love this, a life so dishonest.
-   D             C B
+   A             G F#
 It made me compromise
 
 [Chorus]
-Em              B                D          C
+Bm              F#               A          G
 Someone save me if you will, and take away;
-           B
+           F#
 all these pills.
-Em                   B                      D       C
+Bm                   F#                     A       G
 And please, just save me, if you can, from my blasphemy
-        B
+        F#
 in my wasteland
 
 [Bridge]
-Em  G             D    C B
+Bm  D             A    G F#
 Jump in the water, jump in with me.
-Em  G              D               C B
+Bm  D              A               G F#
 Jump on the altar, lay down with me.
-Em           G          D    C B   Em  G  D   C  B
+Bm           D          A    G F#  Bm  D  A   G  F#
 The hardest question to answer: is why    why
 
 [Chorus]
-Em              B                D          C
+Bm              F#               A          G
 Someone save me if you will, and take away;
-           B
+           F#
 all these pills.
-Em                   B                      D       C
+Bm                   F#                     A       G
 And please, just save me, if you can, from my blasphemy
-        B
+        F#
 in my wasteland.
 
 [Outro]
-Em              G
+Bm              D
 Someone save me.
-D               C  B
+A               G  F#
 Someone save me.
-Em
+Bm
 Somebody save me.
-G
+D
 Somebody save me,
-D                     C  B  Em
+A                     G  F# Bm
 please don't erase me.
 ```

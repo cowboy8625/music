@@ -2,7 +2,7 @@
 artist: Gary Allan
 key: G
 capo: 0
-tuning: Baritone (B)
+tuning: Standard
 status: learning
 tags:
   - song
@@ -12,71 +12,71 @@ source: https://www.chordie.com/chord.pere/www.tabcountry.com/song481/-Songs-Abo
 
 Slow 3/4 waltz feel: strum down, down-up, down-up.
 
-Chord shapes: C/B = 2X0033, G#dim = XX1212, F9 = X32013
+Chord shapes: G/F# = 2X0033, D#dim = XX1212, C9 = X32013
 
 ```chords-guitar
 [Verse 1]
-     C               C/B          Am                F9         C   C/B  Am F9
+     G               G/F#         Em                C9         G   G/F# Em C9
 Well this town has closed down way too early and there's nothing to do,
-       C        C/B      Am              F9             C   C/B  Am F9
+       G        G/F#     Em              C9             G   G/F# Em C9
 So I'm driving around in circles and I'm thinking about you,
-  G     G#dim           Am       F9
+  D     D#dim           Em       C9
 Today I heard you got a new last name,
-G           G#dim             Am       F
+D           D#dim             Em       C
 Sure didn't know it was gonna hit me this way,
-        C     C/B           Dm                F9          C
+        G     G/F#          Am                C9          G
 And the radio just keeps on playing all these songs about rain
 
 [Verse 2]
-C               C/B                  Am                   F9
+G               G/F#                 Em                   C9
 Now there's all kinds of songs about babies and love that goes right
-C                    C/B           Am                   F9
+G                    G/F#          Em                   C9
 But for some unknown reason nobody wants to play them tonight
-G                G#dim              Am F9
+D                D#dim              Em C9
 Hey, I hope it's sunny wherever you are
-    G               G#dim         Am          F
+    D               D#dim         Em          C
 But that's sure not the picture tonight in my car
-       C          C/B       Dm              F9
+       G          G/F#      Am              C9
 And it sure ain't easing my pain, all these songs like
 
 [Chorus]
-C                          Em
+G                          Bm
 Rainy Night in Georgia and Kentucky Rain
-F9                        C
+C9                        G
 Here Comes That Rainy Day Feeling Again
-C                       Em
+G                       Bm
 Blue Eyes Crying in the Early Morning Rain
-     F9                       D
+     C9                       A
 They go on and on and there's no two the same
-Dm                      G                           C
+Am                      D                           G
 Oh, it would be easy to blame all these songs about rain
 
 [Verse 3]
-C                    C/B             Am              F9
+G                    G/F#            Em              C9
 Well I thought I was over you, but I guess maybe I'm not
-C                 C/B                Am                   F9
+G                 G/F#               Em                   C9
 'Cause when I let you go, looks like lonely is all that I got
-G                G#dim           Am        F9
+D                D#dim           Em        C9
 Guess I'll never know what could have been,
-G                  G#dim          Am     F
+D                  D#dim          Em     C
 Sure ain't helping this mood that I'm in,
-           C          C/B           Dm    F9
+           G          G/F#          Am    C9
 If they're gonna keep on playing me songs like
 
 [Chorus]
-C                          Em
+G                          Bm
 Rainy Night in Georgia and Kentucky Rain
-F9                        C
+C9                        G
 Here Comes That Rainy Day Feeling Again
-C                       Em
+G                       Bm
 Blue Eyes Crying in the Early Morning Rain
-     F9                       D
+     C9                       A
 They go on and on and there's no two the same
-Dm                      G                           C
+Am                      D                           G
 Oh, it would be easy to blame all these songs about rain
 
 [Outro]
-Dm                     G                           C
+Am                     D                           G
 Oh, how I wish I could blame all these songs about rain
 All these songs about rain, songs about rain...
 ```

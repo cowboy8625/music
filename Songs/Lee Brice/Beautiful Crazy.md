@@ -2,7 +2,7 @@
 artist: Lee Brice
 key: G
 capo: 0
-tuning: Baritone (B)
+tuning: Standard
 status: learning
 tags:
   - song
@@ -11,70 +11,70 @@ custom-width: 100
 
 ```chords
 [Intro]
-C
+G
  
 [Verse 1]
-        C                         G/B
+        G                         D/F#
 Her day starts with a coffee, and ends with a wine
-Am7                          G                 F          G
+Em7                          D                 C          D
 Takes forever gettin' ready, so she's never on time for anything...
-C                     G/B
+G                     D/F#
 When she gets that come get me look in her eyes
-Am7                     G                   F                        G
+Em7                     D                   C                        D
 Well, it kinda scares me, the way that she drives me wild, and she drives me wild... 
  
 [Chorus]
  
-C           G/B
+G           D/F#
 Beautiful.. Crazy..
-          Am7       G
+          Em7       D
 She can't help but amaze me
-F                           G
+C                           D
 The way that she dances, ain't afraid to take chances
-C         G/B          Am7
+G         D/F#         Em7
 And wears her heart on her sleeve...
-Dm7            G/B                    C
+Am7            D/F#                   G
 Yeah, she's crazy, but her crazy is beautiful to me....... 
  
 [Verse 2]
-          C                            G/B
+          G                            D/F#
 She makes plans for the weekend, can't wait to go out
-Am7                          G                            F
+Em7                          D                            C
 Till she changes her mind, says let's stay on the couch, and watch TV
-G
+D
 And she falls asleep.... 
  
 [Chorus]
-C           G/B
+G           D/F#
 Beautiful.. Crazy..
-          Am7       G
+          Em7       D
 She can't help but amaze me
-F                           G
+C                           D
 The way that she dances, ain't afraid to take chances
-C         G/B          Am7
+G         D/F#         Em7
 And wears her heart on her sleeve...
-Dm7            G/B                       C
+Am7            D/F#                      G
 Yeah, she's crazy, but her crazy is beautiful to me....... 
  
 [Bridge]
-           Dm7            C/E              F          C/E
+           Am7            G/B              C          G/B
 She's unpredictable, unforgettable, it's unusual, unbelievable
-Dm7                   C/E                F         G
+Am7                   G/B                C         D
 How I'm such a fool, yeah I'm such a fool... for her..... 
  
 [Ending Chorus]
-C           G/B
+G           D/F#
 Beautiful.. Crazy..
-          Am7       G
+          Em7       D
 She can't help but amaze me
-F                           G
+C                           D
 The way that she dances, ain't afraid to take chances
-C         G/B          Am7
+G         D/F#         Em7
 And wears her heart on her sleeve...
-Dm7          C/E          F
+Am7          G/B          C
 Yeah, she's crazy, she's crazy, she's crazy,
-G                     C  G/B   Am7
+D                     G  D/F#  Em7
 But her crazy is beautiful to me.......
-G                     F      G/B   C
+D                     C      D/F#  G
 Her crazy is beautiful to me.......
 ```

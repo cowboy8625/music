@@ -10,7 +10,7 @@ await tp.file.move(`Songs/${artist}/${title}`);
 artist: <% artist %>
 key: <% key %>
 capo: <% capo %>
-tuning: Baritone (B)
+tuning: Standard
 status: <% status %>
 tags:
   - song
