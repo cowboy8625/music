@@ -101,6 +101,7 @@ Ebadd9:::Eb G Bb F
 Eadd9:::E G# B F#
 Fadd9:::F A C G
 F#add9:::F# A# C# G#
+<!--SR:!2026-11-25,0,230!2000-01-01,1,250-->
 Gadd9:::G B D A
 Abadd9:::Ab C Eb Bb
 Aadd9:::A C# E B
