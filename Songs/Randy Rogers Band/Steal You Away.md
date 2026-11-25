@@ -7,30 +7,78 @@ status: known
 tags:
   - song
 custom-width: 100
+source: https://tabs.ultimate-guitar.com/tab/randy-rogers-band/steal-you-away-chords-1002241
 ---
 
-```chords
+Capo 1st fret.
+
+```chords-guitar
 [Intro]
-<% tp.file.cursor() %>
+G  C  D   x2
 
 [Verse 1]
+G                          C
+I could see you standing with him
+G                                    D
+He ain't holdin' your hand like he should
+G                                  C
+He ain't listenin' to a word you say
+G                                         D
+He doesn't look at you the way I would
+C            G             D
+I should steal you away
+
+[Verse 2]
+G
+I've been wondering
+C
+Are you looking at me
+G                                  D
+Thinking how it might be, if you were mine
+
+[Pre-Chorus]
+C                    G
+Girl it drives me crazy
+C                   G
+He don't know what he's got
+C                     G                                 D
+I've been fightin' so hard not to cross the line
 
 [Chorus]
+C                  G
+I should steal you away,
+C                    G    D
+I should steal you away,
+C                          G                      D
+In the middle of the night come take your heart,
+C                        G
+I should steal you away
 
-[Bridge]
+[Music Break]
+C  G  D  G
+
+[Verse 3]
+                         C       G
+I could see us walking out that door
+G                                     D
+Not looking back as we roll down the road
+G                                          C
+And I would show you what a man's supposed to be
+G                               D
+Take you anywhere you wanna go
+
+[Chorus]
+C                 G
+I should steal you away,
+C                  G       D
+I should steal you away,
+C                           G                        D
+In the middle of the night come take your heart,
+C                 G
+I should steal you away,
+C                   G
+I should steal you away
+
+[Outro]
+G  D  A  Em  A  D  G  Em  C  G  D
 ```
-# Steal You Away Chords
-
-by [Randy Rogers Band](https://www.ultimate-guitar.com/artist/randy_rogers_band_19957)
-
-26,437 views338 saves
-
-Author: UnregisteredDifficulty: Absolute Beginner
-
-Speed: 0.2
-
-Transpose
-
-Capo: No capo
-
-`   STEAL YOU AWAY- RANDY ROGERS Cappo- 1st fret INTRO-G C D      X2 G                          C I could see you standing with him G                                    D he ain't holdin' your hand like he should G                                  C he ain't listenin 'to a word you say G                                         D he doesn't look at you the way i would C            G             D I should steal you away G I've been wondering C are you looking at me G                                  D thinking how it might be, if you were mine   C                    G girl it drives me crazy C                   G he don't know what he's got C                     G                                 D I've been fightin' so hard not to cross the line   C                  G I should steal you away, C                    G    D I should steal you away, C                          G                      D in the middle of the night come take your heart, C                        G I should steal you away   Music Break-- C-G-D-G                          C       G                    C I could see us walking out that door G                                     D not looking back as we roll down the road G                                          C and I would should you what a man's supposed to be  G                               D take you anywhere you wanna go   C                 G I should steal you away, C                  G       D I should steal you away, C                           G                        D in the middle of the night come take your heart, C                 G I should steal you away, C                   G I should steal you away     G-D-A-Em-A-D-G-Em-C-G-D   `
