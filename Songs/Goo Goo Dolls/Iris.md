@@ -14,7 +14,7 @@ Simplified standard-tuning version. The record uses an open tuning (B D D D D D)
 
 ```chords-ukulele
 [Intro]
-Bm  Bmadd9  Bm  Bmadd9  B7sus2 | G  Gmaj7  G  Gmaj7  G5  (x2)
+Bm  Bmadd9  Bm  Bmadd9  Bsus2 | G  Gmaj7  G  Gmaj7  G5  (x2)
 
 [Verse 1]
         Dsus2     Em7       G

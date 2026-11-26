@@ -10,7 +10,7 @@ custom-width: 100
 source: https://tabs.ultimate-guitar.com/tab/vince-gill/go-rest-high-on-that-mountain-chords-1489922
 ---
 
-```chords-guitar
+```chords-ukulele
 [Intro]
 | D  G  | D     | G     | D     |
 | D  G  | D     | D  A  | D     |
