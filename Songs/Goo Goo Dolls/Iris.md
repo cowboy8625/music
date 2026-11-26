@@ -12,7 +12,7 @@ source: https://pg.zachmanson.com/tab/goo-goo-dolls/iris-chords-1488683
 
 Simplified standard-tuning version. The record uses an open tuning (B D D D D D), so these chord names are approximations. Asus4 can be swapped for A7sus4.
 
-```chords-guitar
+```chords-ukulele
 [Intro]
 Bm  Bmadd9  Bm  Bmadd9  B7sus2 | G  Gmaj7  G  Gmaj7  G5  (x2)
 
